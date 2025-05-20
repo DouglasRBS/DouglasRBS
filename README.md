@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasRBS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasRBS&layout=compact&langs_count=6&theme=tokyonight"/>
   <img src="https://img.icons8.com/color/2x/python.png" width="120" alt="Python">
-  <img src="https://img.icons8.com/color/2x/java.png" width="120" alt="java">
+  <img src="https://img.icons8.com/color/2x/JAVA.png" width="120" alt="JAVA">
 </table>
 
 <div> 
