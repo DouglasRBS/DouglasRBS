@@ -6,6 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasRBS&layout=compact&langs_count=6&theme=tokyonight"/>
   <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" width="120" alt="Java">
   <img src="https://img.icons8.com/color/2x/python.png" width="120" alt="Python">
+  <img src="https://img.icons8.com/color/2x/sql.png" width="120" alt="SQL">
 </table>
 
 <div> 
