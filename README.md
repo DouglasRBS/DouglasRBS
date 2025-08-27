@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Douglas Ribowski
+# 👨🏻‍💻 Douglas Ribowski
 
 Me chamo Douglas Ribowski dos Santos, tenho 20 anos, sou de Cascavel Pr, atualmente estou cursando Engenharia de Software na universidade FAG.
 
