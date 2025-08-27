@@ -1,9 +1,6 @@
 # 👩🏻‍💻 Douglas Ribowski
 
-
-
 Me chamo Douglas Ribowski dos Santos, tenho 20 anos, sou de Cascavel Pr, atualmente estou cursando Engenharia de Software na universidade FAG.
----
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -60,6 +57,27 @@ Me chamo Douglas Ribowski dos Santos, tenho 20 anos, sou de Cascavel Pr, atualme
 />
 
 <br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=DouglasRibowski_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 
 
