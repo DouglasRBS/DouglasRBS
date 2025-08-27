@@ -67,7 +67,7 @@ Me chamo Douglas Ribowski dos Santos, tenho 20 anos, sou de Cascavel Pr, atualme
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DouglasRibowski_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=DouglasRBS_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
