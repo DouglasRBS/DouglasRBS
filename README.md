@@ -1,5 +1,7 @@
 # Hi 👋, I'm Douglas Ribowski
 
+👨‍💻Software Engineer
+Brazil
 
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
