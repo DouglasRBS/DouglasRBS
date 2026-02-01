@@ -7,17 +7,28 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ## 🌐 Where to find me
 
+<h3 align="left">🌐 Where to find me</h3>
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/douglas-ribowski-3bb55622a/S">
-    <img src="https://img.shields.io/badge/Linkedin-DouglasRibowski-181717?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/douglas-ribowski-3bb55622a/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-Douglas%20Ribowski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
   </a>
-  <a href="https://github.com/DouglasRBS">
-    <img src="https://img.shields.io/badge/GitHub-DouglasRBS-181717?style=for-the-badge&logo=github" />
+
+  <a href="https://github.com/DouglasRBS" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/GitHub-DouglasRBS-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
   </a>
-  <a href="https://www.instagram.com/dougl4s_5/">
-    <img src="https://img.shields.io/badge/Instagram-dougl4s_5-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+  <a href="https://www.instagram.com/dougl4s_5/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Instagram-dougl4s__5-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
   </a>
 </p>
+
 
 ---
 
