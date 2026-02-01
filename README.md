@@ -1,86 +1,60 @@
-# 👨🏻‍💻 Douglas Ribowski
+# Hi 👋, I'm Douglas Ribowski
 
-Me chamo Douglas Ribowski dos Santos, tenho 20 anos, sou de Cascavel Pr, atualmente estou cursando Engenharia de Software na universidade FAG.
 
-### 🤖 Linguagens e Tecnologias
+I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+## 🌐 Where to find me
 
-<img 
-    align="left" 
-    alt="Mysql"
-    title="Mysql" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DouglasRBS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasRBS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/douglas-ribowski-3bb55622a/S">
+    <img src="https://img.shields.io/badge/Linkedin-DouglasRibowski-181717?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/DouglasRBS">
+    <img src="https://img.shields.io/badge/GitHub-DouglasRBS-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.instagram.com/dougl4s_5/">
+    <img src="https://img.shields.io/badge/Instagram-dougl4s_5-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+
+### Backend
+![Java](https://img.shields.io/badge/Java-339933?style=for-the-badge&logo=java)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 
+### DevOps & Tools
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
+---
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> _"Code is not just about solving problems.  
+> It's about building solutions that scale, last, and generate real value."_
+
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
