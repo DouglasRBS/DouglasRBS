@@ -6,9 +6,6 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ---
 
 ## 🌐 Where to find me
-
-<h3 align="left">🌐 Where to find me</h3>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/douglas-ribowski-3bb55622a/" target="_blank">
     <img 
@@ -53,10 +50,11 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=DouglasRBS&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasRBS&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
