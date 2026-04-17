@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="jasontodd.png" alt="Porsche Black Banner" height="300px" style="border-radius: 10px; object-fit: cover; width: 400%;" />
+  <img src="jasontodd.png" alt="Porsche Black Banner" height="350px" style="border-radius: 10px; object-fit: cover; width: 100%;" />
 
   <br><br>
 
