@@ -5,7 +5,7 @@
   <br>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Douglas+Ribowski;21+anos;Cascavel+-+Paran%C3%A1;Full+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Douglas+Ribowski;21+anos;Cascavel+-+Paran%C3%A1;Full+Stack+Developer" alt="Typing SVG" />
   </p>
 
   <p align="center">
@@ -31,13 +31,13 @@
 ### 📊 Dark Mode Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasRBS&show_icons=true&theme=midnight-purpura&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasRBS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasRBS&layout=compact&langs_count=7&theme=midnight-purpura&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasRBS&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasRBS&theme=midnight-purpura&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasRBS&theme=tokyonight&hide_border=true&background=000000" alt="GitHub Streak" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
   <a href="https://www.instagram.com/dougl4s_5/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="douglasribowski17@.com">
+  <a href="mailto:douglasribowski17@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
