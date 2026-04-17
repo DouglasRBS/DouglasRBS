@@ -1,15 +1,12 @@
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/DouglasRBS/DouglasRBS/main/images/porsche_all_black_custom_banner.png" alt="Porsche Black Banner Custom" width="100%" />
+  <img src="porsche.jpg" alt="Porsche Black Banner" width="100%" />
 
-  <br><br> <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Douglas+Ribowski;21+anos;Cascavel+-+Paran%C3%A1;Full+Stack+Developer" alt="Typing SVG" />
-  </p>
+  <br><br>
 
   <p align="center">
-    📍 Baseado em <b>Cascavel, PR</b>. Focado em alta performance e design minimalista.
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Douglas+Ribowski;21+anos;Cascavel+-+Paran%C3%A1;Full+Stack+Developer" alt="Typing SVG" />
   </p>
-</div>
 
 ---
 
