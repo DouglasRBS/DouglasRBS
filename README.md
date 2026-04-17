@@ -1,17 +1,13 @@
 <div align="center">
   
-  <img src="https://i.ibb.co/Xz9tH4Z/porsche-all-black-custom-banner.png" alt="Porsche Black Banner Custom" width="100%" />
+  <img src="<img width="5184" height="3456" alt="wp12379782-porsche-911-black-wallpapers" src="https://github.com/user-attachments/assets/fd4841f8-36a7-46e9-b6cb-e71eed186e17" />
+" alt="Porsche Black Banner Custom" width="100%" />
 
   <br>
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Douglas+Ribowski;21+anos;Cascavel+-+Paran%C3%A1;Full+Stack+Developer" alt="Typing SVG" />
   </p>
-
-  <p align="center">
-    📍 Baseado em <b>Cascavel, PR</b>. Focado em alta performance e design minimalista.
-  </p>
-</div>
 
 ---
 
