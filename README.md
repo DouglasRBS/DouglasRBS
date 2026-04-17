@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠️ The Midnight Stack
+### 🛠️ Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -23,8 +23,6 @@
 </p>
 
 ---
-
-### 📊 Dark Mode Stats
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DouglasRBS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000" />
