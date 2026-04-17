@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://i.ibb.co/3sX8M8P/porsche-all-black-readme-banner.png" alt="Porsche Black Banner" width="100%" />
+  <img src="https://i.ibb.co/Xz9tH4Z/porsche-all-black-custom-banner.png" alt="Porsche Black Banner Custom" width="100%" />
 
   <br>
 
@@ -31,13 +31,13 @@
 ### 📊 Dark Mode Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasRBS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasRBS&show_icons=true&theme=midnight-purpura&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasRBS&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasRBS&layout=compact&langs_count=7&theme=midnight-purpura&hide_border=true&bg_color=000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasRBS&theme=tokyonight&hide_border=true&background=000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasRBS&theme=midnight-purpura&hide_border=true&background=000000" alt="GitHub Streak" />
 </p>
 
 ---
@@ -45,12 +45,12 @@
 ### 📫 Contato
 <p align="center">
   <a href="https://www.linkedin.com/in/douglas-ribowski-3bb55622a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/dougl4s_5/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:douglasribowski17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
