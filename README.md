@@ -1,12 +1,13 @@
 <div align="center">
   
-  <img src="porsche.jpg" alt="Porsche Black Banner" width="100%" />
+  <img src="porsche.jpg" alt="Porsche Black Banner" height="300px" style="border-radius: 10px; object-fit: cover; width: 100%;" />
 
   <br><br>
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Douglas+Ribowski;21+anos;Cascavel+-+Paran%C3%A1;Full+Stack+Developer" alt="Typing SVG" />
   </p>
+</div>
 
 ---
 
@@ -26,9 +27,8 @@
 ### 📊 Dark Mode Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasRBS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasRBS&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=000000" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DouglasRBS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasRBS&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=000000" />
 </p>
 
 <p align="center">
